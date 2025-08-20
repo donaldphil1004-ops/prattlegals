@@ -228,6 +228,17 @@ function App() {
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
+                    <Address className="w-6 h-6 text-amber-600 mt-1" />
+                    <div>
+                      <h5 className="font-semibold text-slate-900">
+                        Indirizzo
+                      </h5>
+                      <p className="text-slate-600">Viale Etiopia 2D</p>
+                      <p className="text-slate-600">00199 Rome</p>
+                      <p className="text-slate-600">Italy</p>
+                    </div>
+                  </div>
+                  <div className="flex items-start space-x-4">
                     <Clock className="w-6 h-6 text-amber-600 mt-1" />
                     <div>
                       <h5 className="font-semibold text-slate-900">
