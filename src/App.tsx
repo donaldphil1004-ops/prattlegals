@@ -28,7 +28,7 @@ function App() {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>pratt.legals@mail.com</span>
+                <span>prattlegals@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
@@ -216,7 +216,7 @@ function App() {
                     <Mail className="w-6 h-6 text-amber-600 mt-1" />
                     <div>
                       <h5 className="font-semibold text-slate-900">Email</h5>
-                      <p className="text-slate-600">pratt.legals@mail.com</p>
+                      <p className="text-slate-600">prattlegals@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
@@ -265,7 +265,7 @@ function App() {
                   </div>
                   <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
                     <p className="text-blue-800 font-medium">
-                      ✉️ Write to us at pratt.legals@mail.com
+                      ✉️ Write to us at prattlegals@gmail.com
                     </p>
                   </div>
                   <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
