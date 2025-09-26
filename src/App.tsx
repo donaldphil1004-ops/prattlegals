@@ -24,7 +24,7 @@ function App() {
             <div className="hidden md:flex items-center space-x-6 text-sm">
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span>+39 350 939 8753</span>
+                <span>+41 79 807 43 42</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
