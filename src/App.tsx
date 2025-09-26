@@ -90,7 +90,7 @@ function App() {
               Law Firm of Excellence
             </h2>
             <p className="text-xl text-slate-600 mb-8 leading-relaxed">
-              PRATT LEGALS is a law firm based in Italy specializing in
+              PRATT LEGALS is a law firm based in Switzerland specializing in
               international relocations for students and professionals.
               We provide complete legal assistance for all immigration
               and international relocation procedures.
@@ -98,7 +98,7 @@ function App() {
             <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-6">
               <div className="flex items-center space-x-2 text-slate-700">
                 <MapPin className="w-5 h-5 text-amber-600" />
-                <span className="font-medium">Located in Italy</span>
+                <span className="font-medium">Located in Switzerlnd </span>
               </div>
               <div className="flex items-center space-x-2 text-slate-700">
                 <Globe className="w-5 h-5 text-amber-600" />
@@ -163,7 +163,7 @@ function App() {
                   Our Experience
                 </h4>
                 <p className="text-slate-600 mb-6 leading-relaxed">
-                  PRATT LEGALS is a specialized law firm operating from Italy,
+                  PRATT LEGALS is a specialized law firm operating from ,
                   offering excellent services in the field of international
                   relocations. Our expertise focuses on assisting students
                   and professionals who wish to move abroad for study or work.
@@ -209,7 +209,7 @@ function App() {
                     <Phone className="w-6 h-6 text-amber-600 mt-1" />
                     <div>
                       <h5 className="font-semibold text-slate-900">Phone</h5>
-                      <p className="text-slate-600">+39 350 939 8753</p>
+                      <p className="text-slate-600">+41 79 807 43 42</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
@@ -242,9 +242,9 @@ function App() {
                       <h5 className="font-semibold text-slate-900">
                         Address
                       </h5>
-                      <p className="text-slate-600">Viale Etiopia 2D</p>
-                      <p className="text-slate-600">00199 Rome</p>
-                      <p className="text-slate-600">Italy</p>
+                      <p className="text-slate-600">Predigergasse 17D</p>
+                      <p className="text-slate-600">8001 Zürich</p>
+                      <p className="text-slate-600">Switzerland</p>
                     </div>
                   </div>
                 </div>
@@ -260,7 +260,7 @@ function App() {
                 <div className="space-y-4">
                   <div className="bg-amber-50 border border-amber-200 rounded-lg p-4">
                     <p className="text-amber-800 font-medium">
-                      📞 Call us at +39 350 939 8753
+                      📞 Call us at +41 79 807 43 42
                     </p>
                   </div>
                   <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
